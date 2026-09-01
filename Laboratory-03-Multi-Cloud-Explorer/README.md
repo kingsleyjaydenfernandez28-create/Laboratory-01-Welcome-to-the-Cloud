@@ -14,3 +14,7 @@ cat /etc/os-release   # Shows Operating System
 lscpu                 # Shows CPU information
 free -h               # Shows Memory / RAM
 df -h                 # Shows Disk Space
+### Cloud Services That Could Host This Server
+- **AWS → Amazon EC2** — Create a Linux virtual machine
+- **Azure → Azure Virtual Machines** — Create a Linux virtual machine
+- **GCP → Google Compute Engine** — Create a Linux virtual machine
