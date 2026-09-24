@@ -1,7 +1,5 @@
 # Mission Reflection — Multi-Cloud Explorer
 
-**Word count: 330**
-
 ## 1. Which cloud platform impressed you the most?
 Google Cloud Platform impressed me most because of its clean, modern interface and clear leadership in open-source technology. Learning that Google created Kubernetes and continues to drive its development gave me confidence that GCP is building the future of cloud infrastructure, not just following it. Its focus on AI and data tools also feels particularly relevant to where technology is heading.
 
