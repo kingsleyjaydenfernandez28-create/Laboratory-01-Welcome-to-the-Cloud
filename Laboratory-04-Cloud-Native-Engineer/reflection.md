@@ -1,7 +1,5 @@
 # Mission Reflection — Cloud-Native Engineer
 
-**Word count: 310**
-
 ## 1. Boot Time Comparison
 A Docker container starts in seconds because it shares the host's operating system kernel — there is no need to initialize a separate OS, drivers, or services. In contrast, installing and booting a Virtual Machine takes minutes because the VM must load its own full guest operating system from scratch, just like a physical computer. This speed means containers can scale instantly when traffic increases.
 
